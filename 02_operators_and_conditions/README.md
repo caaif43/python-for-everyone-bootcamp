@@ -1,6 +1,6 @@
-# Section 2: Control Flow
+# Section 2: Operators and conditions
 
-This section teaches how programs build expressions, compare values, combine conditions, and branch with `if`. These ideas appear in almost every real program.
+This section teaches how programs build **expressions**, use **operators** (arithmetic, assignment, comparison, logical), and write **conditions** with `if`, `elif`, and `else` (including **nested** conditions). **Loops** are covered in **Section 3** together with collections.
 
 ## Learning goals
 
@@ -10,7 +10,7 @@ By the end of this section, you will be able to:
 - Use compound assignment (`+=`, `-=`, and related forms) to update variables clearly.
 - Use comparison operators (`==`, `!=`, `<`, `>`, `<=`, `>=`) correctly.
 - Combine conditions with `and`, `or`, and `not`.
-- Write multi-branch decisions with `if`, `elif`, and `else`.
+- Write several connected conditions with `if`, `elif`, and `else`.
 - Nest conditions to express more complex rules (and know when to simplify).
 
 ## Topic summary (order of lessons)

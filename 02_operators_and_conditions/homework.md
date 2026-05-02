@@ -1,4 +1,4 @@
-# Homework — Section 2: Control Flow
+# Homework — Section 2: Operators and conditions
 
 Complete these tasks after you finish all lessons in this section (through `06-nested-conditions.md`). They follow the same ideas as the **Mini practice** steps in each lesson—just a bit longer and using `input()` where it helps.
 
