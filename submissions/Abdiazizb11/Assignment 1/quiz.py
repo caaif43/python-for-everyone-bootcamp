@@ -1,4 +1,4 @@
-# Name: [Your Name/Alias]
+# Name: Abdiaziz Bishar 
 # Description: A simple 3-question quiz about Python basics.
 
 # 1. Greeting
